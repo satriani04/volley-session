@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Volley Session</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_login">LoginActivity</string>
+    <string name="title_activity_list_blog">Blog List</string>
+    <string name="title_activity_detail">DetailActivity</string>
+    <string name="title_activity_add_blog">Add Blog</string>
+    <string name="title_activity_update">UpdateActivity</string>
+    <string name="title_activity_volley_list">VolleyListActivity</string>
+    <string name="title_activity_form_update">FormUpdateActivity</string>
+</resources>
